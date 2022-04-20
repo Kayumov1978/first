@@ -1,0 +1,57 @@
+import turtle
+x=turtle.Turtle()
+x.width(5)
+x.speed(4)
+x.hideturtle()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+for z in ["red","blue","yellow","orange","green"]:
+    x.color(z)
+    x.forward (100)
+    x.right (144)
+x.left   (60)
+x.penup()
+x.forward(30)
+x.pendown()
+turtle.mainloop()
+# Telegram kanalimiz : @Videodarslar_uzb  yoki  https://t.me.Videodarslar_uzb
+# Murojaat uchun : @Bepul_Videodarslar
+# Telegramning qidiruv bo'limidan qidiring
